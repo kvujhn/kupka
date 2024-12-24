@@ -8,4 +8,3 @@ function do_gory(){
     });
 }
 pscroll.addEventListener("click", do_gory);
-console.log("asdas")
